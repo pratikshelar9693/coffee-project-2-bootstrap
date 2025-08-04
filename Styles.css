@@ -1,0 +1,11 @@
+#back-gradient {
+    background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(Images/bg.jpg) !important;
+}
+
+.navbar {
+    background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(Images/bg.jpg) !important;
+}
+
+footer {
+    background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(Images/bg.jpg) !important;
+}
